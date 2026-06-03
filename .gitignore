@@ -3,3 +3,7 @@
 Thumbs.db
 .vscode/
 .idea/
+
+# .NET build artifacts
+[Bb]in/
+[Oo]bj/
