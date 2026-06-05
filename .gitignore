@@ -7,3 +7,7 @@ Thumbs.db
 # .NET build artifacts
 [Bb]in/
 [Oo]bj/
+
+# extension.csproj build intermediates
+extension/bin/
+extension/obj/
